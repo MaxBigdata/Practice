@@ -13,7 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function(name) {
+Pridict<- function(name) {
 
   # consul <- new.env()
   # consul$host = Sys.getenv("consul.host")
