@@ -13,7 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function(name) {
+Predict <- function(name) {
 
   # consul <- new.env()
   # consul$host = Sys.getenv("consul.host")
@@ -28,3 +28,5 @@ hello <- function(name) {
 
   # DBI::dbDisconnect(fcast)
 }
+
+
