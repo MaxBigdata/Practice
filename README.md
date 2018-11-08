@@ -19,7 +19,7 @@ install_github('MaxBigdata/Practice')
 ```
 
 ## DEMO
-
+##只是练手的R包，功能是输入某数，输出此数加100
 ```{r}
 library(HousePrice)
 
