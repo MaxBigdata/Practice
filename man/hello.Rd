@@ -1,5 +1,6 @@
 \name{hello}
 \alias{hello}
+\alias{hello-package}
 \title{Hello, World!}
 \usage{
 hello()
