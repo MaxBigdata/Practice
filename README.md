@@ -21,7 +21,7 @@ install_github('MaxBigdata/Practice')
 ## DEMO
 
 ```{r}
-library(HousePridict)
+library(HousePrice)
 
 #x is a number
 Predict(x)
