@@ -13,6 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
+
 Predict <- function(name) {
 
   # consul <- new.env()
@@ -25,6 +26,8 @@ Predict <- function(name) {
   #
   # data1=head(DBI::dbListTables(fcast), 10)
   print(name)
+  name2=name+100
+  print(name2)
 
   # DBI::dbDisconnect(fcast)
 }
