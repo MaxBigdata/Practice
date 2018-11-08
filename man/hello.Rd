@@ -1,13 +1,13 @@
 \docType{package}
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{Predict}
+\alias{Predict}
+\title{Predict!}
 \usage{
-hello()
+Predict()
 }
 \description{
 Prints 'Hello, world!'.
 }
 \examples{
-hello()
+Predict()
 }
