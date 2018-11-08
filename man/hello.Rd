@@ -1,3 +1,4 @@
+\docType{package}
 \name{hello}
 \alias{hello}
 \alias{hello-package}
